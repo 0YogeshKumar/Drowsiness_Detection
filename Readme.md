@@ -91,12 +91,6 @@ We welcome contributions to improve this project\! If you have ideas for new fea
 
 -----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
-
------
-
 ## 🙏 Acknowledgments
 
   * Inspired by various computer vision and machine learning tutorials on drowsiness detection.
